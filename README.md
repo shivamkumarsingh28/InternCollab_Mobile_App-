@@ -1,6 +1,12 @@
 InternCollab Mobile App
 InternCollab is a mobile application that facilitates collaboration between interns. Built with React Native for the frontend and Spring Boot for the backend, it provides a platform for interns to connect, share resources, and collaborate on projects.
 
+![First Screen](https://github.com/user-attachments/assets/9599deed-399b-4551-8548-445980255f58)
+
+![Register Screen](https://github.com/user-attachments/assets/f2067b66-15c3-4382-916a-abad15feb936)
+
+![Login screen](https://github.com/user-attachments/assets/f49cbe89-dae6-4c9d-8e6b-1e011773c89d)
+
 Table of Contents
 Features
 Technologies Used
