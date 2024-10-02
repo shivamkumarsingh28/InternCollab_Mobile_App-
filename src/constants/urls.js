@@ -1,0 +1,1 @@
+export const api = "http://192.168.100.53:8080/api/auth/login";
